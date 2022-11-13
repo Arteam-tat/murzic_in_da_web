@@ -1,5 +1,5 @@
 # АНКЕТА КОТА МУРЗИКА
-![Фотокарточка](New/Murzic.JPG)
+![Фотокарточка](/Users/artemtatarinov/Desktop/New/Murzic.JPG)
 ## Имя:
 Мурзик
 ## Интересы:
